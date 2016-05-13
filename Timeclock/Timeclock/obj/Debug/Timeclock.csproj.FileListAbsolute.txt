@@ -1,0 +1,5 @@
+U:\OneDrive\Projects\Timeclock\Timeclock\bin\Debug\Timeclock.dll
+U:\OneDrive\Projects\Timeclock\Timeclock\bin\Debug\Timeclock.pdb
+U:\OneDrive\Projects\Timeclock\Timeclock\obj\Debug\Timeclock.csprojResolveAssemblyReference.cache
+U:\OneDrive\Projects\Timeclock\Timeclock\obj\Debug\Timeclock.dll
+U:\OneDrive\Projects\Timeclock\Timeclock\obj\Debug\Timeclock.pdb

@@ -1,0 +1,10 @@
+U:\OneDrive\Projects\Timeclock\Timeclock\bin\Release\Timeclock.dll
+U:\OneDrive\Projects\Timeclock\Timeclock\bin\Release\Timeclock.pdb
+U:\OneDrive\Projects\Timeclock\Timeclock\obj\Release\Timeclock.csprojResolveAssemblyReference.cache
+U:\OneDrive\Projects\Timeclock\Timeclock\obj\Release\Timeclock.dll
+U:\OneDrive\Projects\Timeclock\Timeclock\obj\Release\Timeclock.pdb
+U:\OneDrive\Projects\TimeSystem\Timeclock\Timeclock\bin\Release\Timeclock.dll
+U:\OneDrive\Projects\TimeSystem\Timeclock\Timeclock\bin\Release\Timeclock.pdb
+U:\OneDrive\Projects\TimeSystem\Timeclock\Timeclock\obj\Release\Timeclock.csprojResolveAssemblyReference.cache
+U:\OneDrive\Projects\TimeSystem\Timeclock\Timeclock\obj\Release\Timeclock.dll
+U:\OneDrive\Projects\TimeSystem\Timeclock\Timeclock\obj\Release\Timeclock.pdb

@@ -1,0 +1,15 @@
+U:\OneDrive\Projects\CPLogEmployee\CPLogEmployee\bin\Debug\CPLogEmployee.exe.config
+U:\OneDrive\Projects\CPLogEmployee\CPLogEmployee\bin\Debug\CPLogEmployee.exe
+U:\OneDrive\Projects\CPLogEmployee\CPLogEmployee\bin\Debug\CPLogEmployee.pdb
+U:\OneDrive\Projects\CPLogEmployee\CPLogEmployee\obj\Debug\CPLogEmployee.csprojResolveAssemblyReference.cache
+U:\OneDrive\Projects\CPLogEmployee\CPLogEmployee\obj\Debug\CPLogEmployee.Properties.Resources.resources
+U:\OneDrive\Projects\CPLogEmployee\CPLogEmployee\obj\Debug\CPLogEmployee.csproj.GenerateResource.Cache
+U:\OneDrive\Projects\CPLogEmployee\CPLogEmployee\obj\Debug\CPLogEmployee.exe
+U:\OneDrive\Projects\CPLogEmployee\CPLogEmployee\obj\Debug\CPLogEmployee.pdb
+U:\OneDrive\Projects\CPLogEmployee\CPLogEmployee\obj\Debug\CPLogEmployee.TimeClock.resources
+U:\OneDrive\Projects\CPLogEmployee\CPLogEmployee\bin\Debug\Timeclock.dll
+U:\OneDrive\Projects\CPLogEmployee\CPLogEmployee\bin\Debug\Timeclock.pdb
+U:\OneDrive\Projects\CPLogEmployee\CPLogEmployee\obj\Debug\CPLogEmployee.frmAdmin.resources
+U:\OneDrive\Projects\CPLogEmployee\CPLogEmployee\bin\Debug\config.xml
+U:\OneDrive\Projects\CPLogEmployee\CPLogEmployee\bin\Debug\employees.xml
+U:\OneDrive\Projects\CPLogEmployee\CPLogEmployee\obj\Debug\CPLogEmployee.frmSecurity.resources

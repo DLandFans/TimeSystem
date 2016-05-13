@@ -1,0 +1,1 @@
+U:\OneDrive\Projects\CPLogEmployee\CPLogEmployee\bin\Deploy\CPLogEmployee.exe.config

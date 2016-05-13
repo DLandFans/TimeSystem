@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Employees>
+  <Employee ID="8214">
+    <FirstName>Bob</FirstName>
+    <LastName>Smith</LastName>
+    <Code>1234</Code>
+    <TimePeriods>
+      <TimePeriod Begin="5/6/2016 7:00:00 AM" End="5/6/2016 1:30:00 PM" />
+      <TimePeriod Begin="5/7/2016 7:00:00 AM" End="5/7/2016 7:00:00 AM" />
+    </TimePeriods>
+  </Employee>
+  <Employee ID="2313">
+    <FirstName>John</FirstName>
+    <LastName>Doe</LastName>
+    <Code>4321</Code>
+    <TimePeriods>
+      <TimePeriod Begin="5/6/2016 6:00:00 AM" End="5/6/2016 2:30:00 PM" />
+      <TimePeriod Begin="5/7/2016 6:00:00 AM" End="5/8/2016 9:46:14 AM" />
+    </TimePeriods>
+  </Employee>
+  <Employee ID="4453">
+    <FirstName>Fred</FirstName>
+    <LastName>Savage</LastName>
+    <Code>4444</Code>
+    <TimePeriods>
+      <TimePeriod Begin="5/6/2016 5:00:00 AM" End="5/6/2016 2:30:00 PM" />
+      <TimePeriod Begin="5/7/2016 5:00:00 AM" End="5/7/2016 5:00:00 AM" />
+    </TimePeriods>
+  </Employee>
+  <Employee ID="2854">
+    <FirstName>Bobby</FirstName>
+    <LastName>Dill</LastName>
+    <Code>3333</Code>
+    <TimePeriods>
+      <TimePeriod Begin="5/6/2016 4:00:00 AM" End="5/6/2016 2:30:00 PM" />
+      <TimePeriod Begin="5/7/2016 4:00:00 AM" End="5/7/2016 9:30:00 AM" />
+    </TimePeriods>
+  </Employee>
+</Employees>
