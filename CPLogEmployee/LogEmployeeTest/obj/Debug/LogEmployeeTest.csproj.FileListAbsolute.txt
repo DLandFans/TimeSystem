@@ -1,8 +1,0 @@
-U:\OneDrive\Projects\CPLogEmployee\LogEmployeeTest\bin\Debug\LogEmployeeTest.exe.config
-U:\OneDrive\Projects\CPLogEmployee\LogEmployeeTest\bin\Debug\LogEmployeeTest.exe
-U:\OneDrive\Projects\CPLogEmployee\LogEmployeeTest\bin\Debug\LogEmployeeTest.pdb
-U:\OneDrive\Projects\CPLogEmployee\LogEmployeeTest\bin\Debug\Timeclock.dll
-U:\OneDrive\Projects\CPLogEmployee\LogEmployeeTest\bin\Debug\Timeclock.pdb
-U:\OneDrive\Projects\CPLogEmployee\LogEmployeeTest\obj\Debug\LogEmployeeTest.csprojResolveAssemblyReference.cache
-U:\OneDrive\Projects\CPLogEmployee\LogEmployeeTest\obj\Debug\LogEmployeeTest.exe
-U:\OneDrive\Projects\CPLogEmployee\LogEmployeeTest\obj\Debug\LogEmployeeTest.pdb

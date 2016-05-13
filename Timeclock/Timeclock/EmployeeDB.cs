@@ -8,5 +8,6 @@ namespace INFX.Timeclock
 {
     class EmployeeDB
     {
+
     }
 }
